@@ -1,6 +1,6 @@
 # Cash Register Application
 
-This is a simple **Cash Register** application that calculates and displays the change due to a customer after a purchase. The app simulates a cash drawer with various denominations and ensures that the change is provided accurately based on the cash in the drawer.
+This is a simple **Cash Register** application that calculates and displays the change due to a customer after a purchase. The app simulates a cash drawer with various denominations and ensures that the change is provided accurately based on the cash in the drawer.[TRY NOW](https://qyuzet.github.io/js-c-cash-register/)
 
 
 
@@ -13,7 +13,7 @@ This is a simple **Cash Register** application that calculates and displays the 
 
 ## 🚀 Demo
 
-Try the live demo [here](link-to-demo).
+Try the live demo [here](https://qyuzet.github.io/js-c-cash-register/).
 
 ## 💻 Technologies Used
 
